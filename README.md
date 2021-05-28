@@ -80,15 +80,15 @@ Getting the average from April revenues per years besides year 2021.
 Use k-nearest neighbor approach to calculate anomaly score. Specifically, a normal instance is expected to have a small distance to its k-th nearest neighbor whereas an anomaly is likely to have a large distance to its k-th nearest neighbor.
 <p align="center"><img src="https://images4.imagebam.com/29/89/12/MELVD6_o.png" width=300></p>
 
---
+----
 
 ### Reducing anomaly
 
 ##### AutoRegressive 
-<img src="https://images4.imagebam.com/3f/2e/a2/MELVD8_o.png" width=300></p>
+<p align="center"><img src="https://images4.imagebam.com/3f/2e/a2/MELVD8_o.png" width=300></p>
 
 ##### ARIMA
 <p align="center"><img src="https://images4.imagebam.com/0f/43/b2/MELVDN_o.png" width=300></p>
-----
 
+----
 MIT
